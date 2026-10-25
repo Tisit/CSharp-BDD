@@ -1,0 +1,11 @@
+*.log
+bin/
+obj/
+vtune/
+*.fossil
+sapckpt_*
+sapcrt_*
+.claude/
+_FOSSIL_
+.fossil-settings/
+__pycache__/
